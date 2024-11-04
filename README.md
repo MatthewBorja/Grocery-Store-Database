@@ -1,1 +1,1 @@
-# CSE5720-Database-Systems
+# Grocery Store Database Project
